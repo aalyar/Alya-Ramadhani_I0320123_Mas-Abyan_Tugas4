@@ -1,5 +1,5 @@
 # strings
-needle = "HA"
+needle = "lo"
 haystrack = "Hello World"
 
 # check
