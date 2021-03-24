@@ -13,6 +13,3 @@ print ("Line 3 - Value of c is", c)
 
 c = ~a;
 print ("Line 4 - Value of c is", c)
-
-c = a & ;
-print ("Line 5 - Value of c is", c)
