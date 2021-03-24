@@ -16,3 +16,6 @@ print ("Line 4 - Value of c is", c)
 
 c = a << 2;
 print ("Line 5 - Value of c is", c)
+
+c = a >> 2;
+print ("Line 6 - Value of c is", c)
