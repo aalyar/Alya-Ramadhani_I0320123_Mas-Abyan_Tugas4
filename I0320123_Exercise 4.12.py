@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 a = 60
 b = 13
 c = 0
