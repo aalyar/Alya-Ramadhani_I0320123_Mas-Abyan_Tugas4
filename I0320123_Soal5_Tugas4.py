@@ -1,4 +1,4 @@
-s = "Hey there! what should this string be?"
+s = "melukis anak kelinci"
 
 # Panjangnya harusnya 20
 print("panjang dari s = %d" % len(s))
@@ -15,6 +15,9 @@ print("Lima karakter berikutnya adalah '%s'" % s[5:10]) # 5 to 10
 print("Karakter ketiga belas adalah '%s'" % s[12]) # Just number 12
 print("Karakter dengan indeks ganjil adalah '%s'" %s[1::2]) #(0-based indexing)
 print("Lima karakter terakhir adalah '%s'" % s[-5:]) # 5th-from-last to end
+
+# konversikan ke upercase
+print("String dalam huruf besar: %s" % s.upper())
 
 # konversikan ke lowercase
 print("String dalam huruf kecil: %s" % s.lower())
