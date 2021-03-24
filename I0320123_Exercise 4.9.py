@@ -5,4 +5,4 @@ str = "Hello World"
 substr = str[3:5]
 
 # output
-print(substr)
+print(substr)       #lo

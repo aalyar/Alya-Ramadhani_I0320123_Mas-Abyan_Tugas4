@@ -5,4 +5,4 @@ str = "Jane Doe"
 ch = str[1]
 
 # output
-print(ch)
+print(ch)       #a
